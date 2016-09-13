@@ -1,5 +1,5 @@
 # Trie
-Implementation of Trie datastructure using c++
+Implementation of Trie datastructure using C++
 
 Compile : 
 sh comp.sh
