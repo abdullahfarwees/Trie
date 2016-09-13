@@ -1,6 +1,9 @@
 # Trie
 Implementation of Trie datastructure using c++
 
-COMPILE : 
+Compile : 
 sh comp.sh
+
+
+Execute :
 ./trie
