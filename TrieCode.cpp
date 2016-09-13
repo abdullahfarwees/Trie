@@ -1,4 +1,4 @@
-#include "onepgm.h"
+#include "TrieCode.h"
 
 Node::Node()
 {
@@ -109,7 +109,7 @@ int main()
 	Node *root = new Node;
 	Node node;
 
-	fin.open("data2.txt");
+	fin.open("wordlist.txt");
 	while( !fin.eof() )
 	{
 		fin>>word;
